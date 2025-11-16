@@ -1,90 +1,112 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tecnologia PRO</title>
-    <style>
-        body {
-            margin: 0;
-            font-family: Arial, sans-serif;
-            color: white;
-            background: #0a0f1f;
-        }
+🛢️ Descarte Correto de Óleo de Cozinha & Sabão Artesanal com Soda
 
-        header {
-            background: linear-gradient(90deg, #0a0f1f, #001f3f);
-            padding: 20px;
-            text-align: center;
-            font-size: 30px;
-            font-weight: bold;
-            letter-spacing: 2px;
-        }
+(Com imagens ilustrativas para colocar no site)
 
-        .hero {
-            text-align: center;
-            padding: 60px 20px;
-        }
+🛢️ Por que o óleo NÃO pode ser jogado no ralo ou no lixo?
 
-        .hero img {
-            width: 60%;
-            max-width: 500px;
-            border-radius: 20px;
-            box-shadow: 0 0 25px #00aaff;
-        }
+O óleo de cozinha usado é um dos principais poluentes domésticos.
+Quando jogado no ralo, ele endurece, gruda nos canos, causa entupimentos e pode contaminar até milhões de litros de água.
 
-        h1 {
-            font-size: 40px;
-            margin-top: 30px;
-        }
+❗ Problemas causados:
 
-        p {
-            font-size: 18px;
-            opacity: 0.8;
-        }
+Poluição de rios e mares
 
-        .btn {
-            margin-top: 30px;
-            padding: 15px 25px;
-            background: #00aaff;
-            color: white;
-            font-size: 20px;
-            border-radius: 10px;
-            text-decoration: none;
-            transition: 0.3s;
-        }
+Aumento de animais vetores (ratos, insetos)
 
-        .btn:hover {
-            background: #0088cc;
-            box-shadow: 0 0 15px #00aaff;
-        }
+Entupimento de esgoto
 
-        footer {
-            text-align: center;
-            padding: 20px;
-            font-size: 14px;
-            margin-top: 40px;
-            opacity: 0.5;
-        }
-    </style>
-</head>
-<body>
+Danos em estações de tratamento
 
-<header>
-    🌐 Tecnologia PRO
-</header>
+Prejuízo ao ambiente e à saúde
 
-<div class="hero">
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1000&q=80">
-    <h1>Inovação • Sistemas • Futuro</h1>
-    <p>Seu site de tecnologia com visual profissional e moderno.</p>
+♻️ Como fazer o descarte correto
 
-    <a href="#" class="btn">Saiba Mais</a>
-</div>
+Espere o óleo esfriar
 
-<footer>
-    © 2025 — Desenvolvido por Você
-</footer>
+Coe (para tirar restos de comida)
 
-</body>
-</html>
+Guarde em garrafas PET ou potes bem fechados
+
+Leve para pontos de coleta como:
+
+Mercados
+
+Escolas
+
+Ecopontos
+
+Cooperativas de reciclagem
+
+Esse óleo coletado é transformado em:
+🧼 sabão
+🛢️ biodiesel
+🕯️ velas
+🧽 detergente ecológico
+
+🧼 Sabão Artesanal com Soda Cáustica (para reciclar óleo usado)
+
+O sabão artesanal com soda cáustica é um método tradicional e ecológico de reaproveitar óleo usado.
+Ele é muito eficiente para limpeza pesada.
+
+✔️ Como funciona a química do sabão
+
+O processo é chamado de saponificação:
+
+Óleo + Soda Cáustica → Sabão + Glicerina
+
+A soda quebra as moléculas do óleo e transforma tudo em uma massa sólida de sabão.
+Esse processo precisa de cuidado, pois a soda é corrosiva.
+
+🧤 Como usar e para que serve
+Esse sabão é ótimo para:
+
+Limpeza de chão
+
+Roupas pesadas
+
+Louças engorduradas
+
+Uso geral na casa
+
+Benefícios:
+
+Recicla o óleo que seria jogado fora
+
+Ajuda o meio ambiente
+
+Custa muito barato
+
+Dura bastante
+
+🧽 Receita simples (para estudo, não precisa reproduzir)
+
+Esta parte é apenas informativa para o site escolar.
+
+Ingredientes (informativo):
+
+1 litro de óleo usado
+
+200 ml de água
+
+160 g de soda cáustica
+
+Essência opcional
+
+Passos (informativo):
+
+Dissolver a soda na água (sempre com luvas e longe do rosto)
+
+Misturar com o óleo
+
+Mexer até engrossar
+
+Colocar em formas
+
+Esperar endurecer por 24–48h
+
+🌍 Conclusão
+
+Reciclar óleo e transformá-lo em sabão artesanal é prático, sustentável e econômico.
+Esse processo evita danos ambientais, reduz lixo doméstico e ainda gera um produto de limpeza muito eficiente.
+
+Essas informações ficam perfeitas em trabalhos escolares que tratam de sustentabilidade, reciclagem e ciência ambiental.
