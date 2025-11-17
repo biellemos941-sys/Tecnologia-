@@ -23,6 +23,9 @@ Danos em estações de tratamento
 
 Prejuízo ao ambiente e à saúde
 
+
+
+
 ♻️ COMO FAZER O DESCARTE CORRETO
 
 Espere o óleo esfriar
