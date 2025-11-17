@@ -120,6 +120,7 @@ Essas informações ficam perfeitas em trabalhos escolares que tratam de sustent
 MAIS INFORMAÇÕES
 👇👇👇👇👇👇👇
 https://r.search.yahoo.com/_ylt=AwrhelYrcRppxAMMgZTz6Qt.;_ylu=Y29sbwNiZjEEcG9zAzIEdnRpZAMEc2VjA3Ny/RV=2/RE=1764550187/RO=10/RU=https%3a%2f%2freceitasdepesos.com.br%2freceitas%2f2024%2f12%2f15%2faprenda-a-fazer-sabao-com-soda-caustica-de-forma-segura-e-facil%2f/RK=2/RS=poLPyiQLOKi7NkQOd5k8UosESY0-
+
 👆👆👆👆👆👆👆
 https://r.search.yahoo.com/_ylt=Awriif6Fbhpp_QEArTrz6Qt.;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1764549509/RO=10/RU=https%3a%2f%2fwww.oleoverderesiduos.com.br%2f2025%2f05%2f28%2fo-que-fazer-com-oleo-de-cozinha-usado-guia-completo-de-descarte%2f/RK=2/RS=SPmiB9GBSr7hPDc1Sed0fMAqHLI-
 👆👆👆👆👆👆👆
