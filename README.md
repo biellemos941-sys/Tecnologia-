@@ -1,6 +1,7 @@
 🛢️ DESCARTE CORRETO DE ÓLEO DE COZINHA E SABÃO ARTESANAL COM SODA
 
-(Com imagens ilustrativas para colocar no site)
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/9c3b7789-8311-4887-8bf4-d885ca97edff" />
+
 
 🛢️ POR QUE O ÓLEO NÃO PODE SER J0GADO NO LIXO?
 
